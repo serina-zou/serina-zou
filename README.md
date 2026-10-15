@@ -14,10 +14,10 @@ I design digital products and also build them: I take a design from research and
 | [MoodChanger](https://github.com/serina-zou/moodchanger) | Marketing site whose components became a shared framework | [View](https://serina-zou.github.io/moodchanger/) |
 
 ### Toolkit
-**Design:** Figma, Adobe CC 
-**Research:** surveys, interviews, affinity mapping, UX audits 
-**Build:** HTML/CSS, JavaScript, Git 
-**Data:** R, Python, data visualization
+**Design:** Figma, Adobe CC · 
+**Research:** surveys, interviews, affinity mapping, UX audits ·
+**Build:** HTML/CSS, JavaScript, Git ·
+**Data:** R, Python, data visualization ·
 
 ### Contact
 [Portfolio](https://www.serinazou.com) · [LinkedIn](https://www.linkedin.com/in/serinazou) · [serinaz@umich.edu](mailto:serinaz@umich.edu)
