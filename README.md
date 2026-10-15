@@ -15,8 +15,11 @@ I design digital products and also build them: I take a design from research and
 
 ### Toolkit
 **Design:** Figma, Adobe CC 
+
 **Research:** surveys, interviews, affinity mapping, UX audits 
+
 **Build:** HTML/CSS, JavaScript, Git 
+
 **Data:** R, Python, data visualization
 
 ### Contact
