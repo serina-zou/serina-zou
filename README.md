@@ -8,7 +8,7 @@ I design digital products and also build them: I take a design from research and
 
 | Project | What it is | Live |
 |---|---|---|
-| [Garrett Comer Performance](https://github.com/serina-zou/garrette-performance) | Athlete profile site with season charts and regression trend lines | [View](https://serina-zou.github.io/garrett-performance/) |
+| [Garrett Comer Performance](https://github.com/serina-zou/garrett-performance) | Athlete profile site with season charts and regression trend lines | [View](https://serina-zou.github.io/garrett-performance/) |
 | [FloBrain](https://github.com/serina-zou/flobrain) | Prototype of a team workspace where people work alongside AI teammates | [View](https://serina-zou.github.io/flobrain/FloBrain.dc.html) |
 | [Cosmos Intelligence](https://github.com/serina-zou/cosmosintelligence) | 26-page site for an AI and space research initiative | [View](https://serina-zou.github.io/cosmosintelligence/) |
 | [MoodChanger](https://github.com/serina-zou/moodchanger) | Marketing site whose components became a shared framework | [View](https://serina-zou.github.io/moodchanger/) |
