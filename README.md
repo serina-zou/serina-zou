@@ -17,4 +17,4 @@ I design digital products and also build them: I take a design from research and
 **Design:** Figma, Adobe CC · **Research:** surveys, interviews, affinity mapping, UX audits · **Build:** HTML/CSS, JavaScript, Git · **Data:** R, Python, data visualization
 
 ### Contact
-[Portfolio](https://eminent-freeze-06b.notion.site/Man-Sze-Serina-Zou-s-Portfolio-2ea26e1b7d5a803785c2dd7c8b867a26) · [LinkedIn](https://www.linkedin.com/in/serinazou) · serinaz@umich.edu
+[Portfolio](www.serinazou.com) · [LinkedIn](https://www.linkedin.com/in/serinazou) · [serinaz@umich.edu](mailto:serinaz@umich.edu)
